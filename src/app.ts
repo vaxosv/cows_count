@@ -21,7 +21,6 @@ class Zroxa {
 let boseli = [new Zroxa()];
 
 for (let i = 1; i <= 40; i++) {
-//   var bochola = new Zroxa();
     boseli.forEach(a => {
     a.drois_atvla();
     a.shvilis_gachena()
